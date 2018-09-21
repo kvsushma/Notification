@@ -1,7 +1,7 @@
 Broadcasting a piece of HTML code to a channel from the Rails console usig Action Cabel.
 
-Ruby ~ 2.3.3
-Rails ~ 5.2.1 
+<p>Ruby ~ 2.3.3</p>
+<p>Rails ~ 5.2.1</p> 
 
 Steps:
 1. Run Redis server on your system 
